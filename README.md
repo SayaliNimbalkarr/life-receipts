@@ -18,10 +18,10 @@ The system provides insights, weekly badges, and improvement suggestions through
 - **Machine Learning:** scikit-learn (RandomForest), TensorFlow/Keras (for LSTM)
 
 ## Project Structure
-life-receipts/
-├─ data/ # sample or synthetic datasets
-├─ src/ # core python modules
-├─ web/ # dashboard / web app
-├─ notebooks/ # Jupyter notebooks for analysis
-├─ README.md
-└─ requirements.txt
+- life-receipts/
+- data/ # sample or synthetic datasets
+- src/ # core python modules
+- web/ # dashboard / web app
+- notebooks/ # Jupyter notebooks for analysis
+- README.md
+- requirements.txt
